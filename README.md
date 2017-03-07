@@ -42,7 +42,7 @@ import Tkinter as tkinter
 window = tkinter.Tk()
 
 # These two lines will help you customize the window a little bit more
-window.title("Cool cat window")
+window.title("Super Cool Window")
 window.wm_iconbitmap("youriconhere")
 # ====================================================================
 
