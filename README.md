@@ -13,4 +13,40 @@ window.mainloop()
 
 Then you should see something like this when you run the python:
 
-`Image goes here`
+<img src="http://usingpython.com/wp-content/uploads/EmptyGUI.jpg">
+
+This is the windo where all of your content is going to go
+
+To change the size of the window, use this code: 
+
+```python
+import Tkinter as tkinter
+
+window = tkinter.Tk()
+
+#This line will change the width and the height with the measurement of pixels
+window.geometry("500x500")
+# ============================================================================
+
+window.mainloop()
+
+```
+
+Now when you run this, the window should be a little bit bigger.
+
+Now, lets customize this empty window, You probably want to add a window title and your icon, well, Tkinter makes that fairly easy. The code that you add will have a comment above it:
+
+```python
+import Tkinter as tkinter
+
+window = tkinter.Tk()
+
+# These two lines will help you customize the window a little bit more
+window.title("Cool cat window")
+window.wm_iconbitmap("youriconhere")
+# ====================================================================
+
+window.geometry("500x500")
+
+window.mainloop()
+```
