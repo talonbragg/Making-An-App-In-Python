@@ -42,8 +42,8 @@ import Tkinter as tkinter
 window = tkinter.Tk()
 
 # These two lines will help you customize the window a little bit more
-window.title("Super Cool Window")
-window.wm_iconbitmap("youriconhere")
+window.title("Super-Cool Window")
+window.wm_iconbitmap("youriconhere.ico")
 # ====================================================================
 
 window.geometry("500x500")
