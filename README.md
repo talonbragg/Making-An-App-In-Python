@@ -1,5 +1,5 @@
-# how-to-make-a-GUI-app-in-python
-This is a tutorial on how to make a basic GUI app in Python.
+# How to Make a GUI App in Python
+**This is a tutorial on how to make a basic GUI app in Python.**
 
 The first thing that you need to do when creating a Graphical User Interface in python, is initialize the window. This is how I do it in three lines of code
 
