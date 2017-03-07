@@ -50,3 +50,6 @@ window.geometry("500x500")
 
 window.mainloop()
 ```
+This is what my window looks like:
+
+<img src="http://usingpython.com/wp-content/uploads/SuperCoolWindow.jpg">
