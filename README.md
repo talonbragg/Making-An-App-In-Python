@@ -73,3 +73,16 @@ window.geometry("500x500")
 
 window.mainloop()
 ```
+Now, try this on your own to see what happens.
+
+**===================================================================**
+
+**Thank You For Reading This Tutorial**
+
+**Be sure to checkout the example code [HERE](https://github.com/talonbragg/Making-An-App-In-Python/blob/master/example.py).**
+
+**You can learn more [HERE](http://usingpython.com/using-tkinter/).**
+
+**Photo credits to http://usingpython.com**
+
+**===================================================================**
